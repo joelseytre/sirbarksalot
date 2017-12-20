@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: cf853292d91748a48afba0d69f705d85
+timeCreated: 1463911962
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "T\xEAte"
+    21300002: Monocle
+    21300004: Chapeau
+    21300006: Langue-Int
+    21300008: Oreille Droite
+    21300010: Oreille Gauche
+    21300012: Buste
+    21300014: Bras Droit
+    21300016: Bras Gauche
+    21300018: Jambe Droite
+    21300020: Jambe Gauche
+    21300022: Langue Ext
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 64
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: "T\xEAte"
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 35
+        width: 22
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5398912, y: 0.071581915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Monocle
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 55
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chapeau
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 47
+        width: 16
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5063288, y: 0.020691173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Langue-Int
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 45
+        width: 5
+        height: 2
+      alignment: 9
+      pivot: {x: 0.49999923, y: 0.80860955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Oreille Droite
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 35
+        width: 5
+        height: 7
+      alignment: 9
+      pivot: {x: 0.96155393, y: 0.2965829}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Oreille Gauche
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 36
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.05151081, y: 0.43186092}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Buste
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Bras Droit
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 13
+        width: 8
+        height: 19
+      alignment: 9
+      pivot: {x: 0.48999977, y: 0.9357896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Bras Gauche
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 13
+        width: 8
+        height: 19
+      alignment: 9
+      pivot: {x: 0.4899993, y: 0.93473697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Jambe Droite
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1
+        width: 6
+        height: 9
+      alignment: 9
+      pivot: {x: 0.40666643, y: 0.8600002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Jambe Gauche
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1
+        width: 6
+        height: 9
+      alignment: 9
+      pivot: {x: 0.42333284, y: 0.8622224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Langue Ext
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 40
+        width: 5
+        height: 5
+      alignment: 9
+      pivot: {x: 0.49999923, y: 1.1080002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
